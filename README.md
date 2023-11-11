@@ -1,6 +1,7 @@
 # discordbot-status
 
 bot-prefix: !
+
 bot-commands: botstatus (!botstatus)
 
 command-syntax:
